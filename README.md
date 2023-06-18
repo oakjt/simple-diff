@@ -15,6 +15,9 @@ Batch of images sampled using the test model:
 
 ![Sampling using the model](sample_test.png)
 
+Upscaled using nearest-neighbour:
+![Sampling using the model upscaled](sample_test_nn_upscale.png)
+
 ### References
 <a id="1">[1]</a> 
 Denoising Diffusion Probabilistic Models;
